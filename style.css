@@ -1,0 +1,49 @@
+body{
+    background-size: cover;
+}
+#seccioninisio{
+    width: 100%;
+    text-align: left;
+}
+#textotitulo{
+    width: 100%;
+    display: inline;
+}
+#botoninstrucciones{
+    float: right;
+    box-shadow: 3px 3px 3px rgb(241, 65, 65);
+}
+#mario{
+    width: 100%;
+}
+#start,#status{
+    white-space: pre-line;
+    box-shadow: 3px 3px 3px rgb(13, 243, 5);
+}
+#misinstrucciones{
+    text-align: center;
+}
+#contenidomodal{
+    width: 90%;
+}
+#tituloinstrucciones{
+    background-color: rgb(112, 224, 200);
+    font-size: 30px;
+}
+#imageninstruccion{
+    width: 50%;
+    display: inline-block;
+}
+#textocontroles{
+    font-family: 'Macondo';
+font-size:20px;
+}
+video{
+    background-image: url('consola.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    padding: 30px;
+}
+
+
